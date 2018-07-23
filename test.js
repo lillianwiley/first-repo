@@ -7,3 +7,5 @@ var car = {
     color: 'green'
 }
 var myName = 'Lillian';
+
+var myFavColor = "Blue";
